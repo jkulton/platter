@@ -4,7 +4,7 @@
 
 Create a file server from a directory, fast.
 
-Platter is a simple wrapper around the Go's [`net/http` `FileServer`](https://golang.org/pkg/net/http/#FileServer).
+Platter is a simple wrapper around the Go standard library [`net/http` `FileServer`](https://golang.org/pkg/net/http/#FileServer).
 
 ## Install
 
