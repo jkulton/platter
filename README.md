@@ -8,8 +8,10 @@ Platter is a simple wrapper around the Go's [`net/http` `FileServer`](https://go
 
 ## Install
 
+Before installing please have Go installed and `$GOPATH/bin` in your `$PATH`. ([More info here](https://golang.org/doc/install#install))
+
 ```sh
-go get https://github.com/jkulton/platter/cmd/platter
+go get github.com/jkulton/platter/cmd/platter
 ```
 
 ## Usage
