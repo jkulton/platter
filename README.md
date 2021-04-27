@@ -1,6 +1,6 @@
-# Platter
-
 ![Platter](./platter.png)
+
+# Platter
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/jkulton/platter)](https://goreportcard.com/report/github.com/jkulton/platter)
 
