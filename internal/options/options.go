@@ -7,6 +7,7 @@ import (
 	"strings"
 )
 
+// Options represents the configuration the user may pass to Platter
 type Options struct {
 	Port      string
 	Directory string

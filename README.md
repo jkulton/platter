@@ -1,6 +1,8 @@
+![Platter](./platter.png)
+
 # Platter
 
-![Platter](./platter.png)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jkulton/platter)](https://goreportcard.com/report/github.com/jkulton/platter)
 
 Create a file server from a directory, fast.
 
